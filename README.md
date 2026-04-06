@@ -76,8 +76,8 @@ Automated Wireshark pipeline to label malicious vs benign traffic — reduced an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R1shit&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=R1shit&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R1shitGarg&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=R1shitGarg&theme=radical" width="47%" />
 </p>
 
 ---
